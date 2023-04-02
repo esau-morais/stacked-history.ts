@@ -1,7 +1,7 @@
-import { BrowserList } from "./BrowserList";
+import { BrowserList } from './BrowserList'
 
-function App() {
-  return <BrowserList />;
+const App = () => {
+  return <BrowserList />
 }
 
-export default App;
+export default App
