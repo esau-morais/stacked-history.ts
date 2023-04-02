@@ -2,9 +2,9 @@
 
 Cool stacked browser history: top visited websites in a unique place
 
-![initial page](/1.png)
+![initial page](./public/1.png)
 
-![stacked history](/2.png)
+![stacked history](./public/2.png)
 
 ## _WIP_ Roadmap
 
